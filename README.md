@@ -9,4 +9,4 @@ Afficher le calendrier par mois.
 * PHP
 # Réalisations
 Afficher le calendrier par mois, via un choix du mois / année.
-![](calendrier.png)
+![](calendrier.jpg)
